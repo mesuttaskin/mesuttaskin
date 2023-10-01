@@ -1,5 +1,6 @@
 ### Hi there 👋
 
-Software Developer
+Software Developer(Engineer)
+
 .Net, C#, HTML, CSS, PHP, SQL
 
