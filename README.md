@@ -10,7 +10,7 @@ I graduated from Yıldız Technical University, Faculty of Electrical and Electr
 
 [<img width="30" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>
 ][linkedin]
-
+📩 taskinmesut@yandex.com
 <br />
 <br />
 
